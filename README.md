@@ -20,7 +20,7 @@ BCH:
 QTUM:
 QMKuCbUGSG2XUbGGXp4sffYV9fe8kNLbV6
 
-NODE：
+NODE:
 addnode=62.138.8.103
 addnode=110.10.189.235
 addnode=172.104.142.96
